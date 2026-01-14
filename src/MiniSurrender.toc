@@ -2,7 +2,7 @@
 ## Title: MiniSurrender
 ## Notes: Type /afk or /gg to surrender arena.
 ## Author: Verz
-## Version: 1.0.0
+## Version: 1.1.0
 ## IconTexture: Interface\AddOns\MiniSurrender\Icon.blp
 ## X-Curse-Project-ID: 1419004
 

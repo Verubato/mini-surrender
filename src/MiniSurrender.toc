@@ -1,4 +1,4 @@
-## Interface: 120100, 120005, 50504, 40402, 38000, 30405, 30300, 20506
+## Interface: 120100, 120007, 120005, 50504, 40402, 38002, 38000, 30405, 30300, 20506
 ## Title: MiniSurrender
 ## Notes: Type /afk or /gg to surrender arena.
 ## Author: Verz

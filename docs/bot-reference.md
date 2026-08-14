@@ -1,7 +1,7 @@
 # MiniSurrender - bot reference
 
-Version 1.2.4. Interface versions: 120100, 120007, 120005, 50504, 40402,
-38002, 38000, 30405, 30300, 20506. Not listed for Classic Era (no 11509).
+Version 1.2.5. Interface versions: 120100, 50504, 40402, 38002, 38000,
+30405, 30300, 20506. Not listed for Classic Era (no 11509).
 No saved variables, no options.
 
 ## What it does

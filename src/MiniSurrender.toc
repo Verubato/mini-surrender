@@ -1,6 +1,7 @@
 ## Interface: 120100, 50504, 40402, 38002, 38000, 30405, 30300, 20506
 ## Title: MiniSurrender
 ## Notes: Type /afk or /gg to surrender arena.
+## Category: Mini
 ## Author: Verz
 ## Version: 1.2.5
 ## IconTexture: Interface\AddOns\MiniSurrender\Icon.blp

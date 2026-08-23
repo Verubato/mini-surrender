@@ -1,6 +1,6 @@
 # MiniSurrender - bot reference
 
-Version 1.2.5. Interface versions: 120100, 50504, 40402, 38002, 38000,
+Version 1.2.7. Interface versions: 120100, 50504, 40402, 38002, 38000,
 30405, 30300, 20506. Not listed for Classic Era (no 11509).
 No saved variables, no options.
 
@@ -15,8 +15,8 @@ the PvP icon and confirming the popup.
   nothing.
 
 On a surrender attempt it prints "Successfully surrendered arena." or, when
-the game says you cannot surrender (CanSurrenderArena is false), "Failed to
-surrender arena."
+the game says you cannot surrender (C_PvP.CanSurrenderArena is false),
+"Failed to surrender arena."
 
 ## Settings
 

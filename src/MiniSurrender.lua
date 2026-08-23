@@ -1,9 +1,18 @@
+-- 12.1 moved CanSurrenderArena onto C_PvP; older clients still have the global.
+local function CanSurrender()
+	if C_PvP and C_PvP.CanSurrenderArena then
+		return C_PvP.CanSurrenderArena()
+	end
+
+	return CanSurrenderArena and CanSurrenderArena()
+end
+
 local function Surrender()
 	if not IsActiveBattlefieldArena() then
 		return
 	end
 
-	if CanSurrenderArena() then
+	if CanSurrender() then
 		print("Successfully surrendered arena.")
 		SurrenderArena()
 	else

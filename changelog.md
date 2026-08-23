@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.7
+
+Fixed surrendering on 12.1, where `CanSurrenderArena` moved onto `C_PvP`.
+
 ## 1.2.6
 
 Added a Mini category so the addon groups with the other Mini addons in the addon list.

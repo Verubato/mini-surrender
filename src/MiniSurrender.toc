@@ -7,4 +7,6 @@
 ## IconTexture: Interface\AddOns\MiniSurrender\Icon.blp
 ## X-Curse-Project-ID: 1419004
 
+Libs\MiniFramework\MiniFramework.xml
+Config.lua
 MiniSurrender.lua

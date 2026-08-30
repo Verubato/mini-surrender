@@ -18,7 +18,10 @@ mini:WaitForAddonLoad(function()
 	-- A section rule with no settings under it reads as a page that failed to load.
 	mini:PanelHeader({
 		Parent = panel,
-		Description = "Makes /afk and /gg surrender arena, without the right click and the confirmation.",
+		Lines = {
+			"Makes /afk and /gg surrender arena, without the right click and the confirmation.",
+			"This addon has no settings, it simply works out of the box.",
+		},
 	})
 
 	mini:RegisterSlashCommand(category, panel, {

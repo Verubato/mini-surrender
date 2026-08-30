@@ -44,6 +44,7 @@ smoke.Run("MiniSurrender", {
 		fw.eq(context.Addon.Framework.CustomStyling, true, "custom styling on")
 		fw.eq(context.Addon.Framework.CustomStylingOverrides.Button, false, "stock buttons")
 		fw.truthy(HasText("Makes /afk and /gg surrender arena, without the right click and the confirmation."), "the subtitle under the panel title")
-		fw.truthy(HasDivider("SETTINGS"), "the settings section rule under the header")
+		-- The panel has no controls, so it carries no section rule either.
+		fw.falsy(HasDivider("SETTINGS"), "no settings section rule under the header")
 	end,
 })

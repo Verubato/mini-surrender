@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.8
+
+- UI improvements.
+- Added a settings page.
+
 ## 1.2.7
 
 Fixed surrendering on 12.1, where `CanSurrenderArena` moved onto `C_PvP`.

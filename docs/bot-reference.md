@@ -1,8 +1,9 @@
 # MiniSurrender - bot reference
 
-Version 1.2.7. Interface versions: 120100, 50504, 40402, 38002, 38000,
+Version 1.2.8. Interface versions: 120100, 50504, 40402, 38002, 38000,
 30405, 30300, 20506. Not listed for Classic Era (no 11509).
-No saved variables, no options.
+No saved variables. It has a settings panel, but nothing on it is
+configurable.
 
 ## What it does
 
@@ -20,8 +21,14 @@ the game says you cannot surrender (C_PvP.CanSurrenderArena is false),
 
 ## Settings
 
-None. No options panel, no saved variables. Install to enable; remove to
-restore normal /afk behaviour.
+Open with a slash command or Options -> AddOns -> MiniSurrender. The panel
+describes what the addon does; its subtitle says there is nothing to
+configure. No saved variables.
+
+## Slash commands
+
+/minisurrender, /msur - both open the settings panel. See "What it does"
+above for /gg and /afk.
 
 ## Troubleshooting
 

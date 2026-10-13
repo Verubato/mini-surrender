@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.9
+
+- Fixed resetting to defaults not fully refreshing the saved settings.
+
+Updated for patch 12.1.5.
+
 ## 1.2.8
 
 - UI improvements.

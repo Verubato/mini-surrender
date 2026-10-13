@@ -1,6 +1,6 @@
 # MiniSurrender - bot reference
 
-Version 1.2.8. Interface versions: 120100, 50504, 40402, 38002, 38000,
+Version 1.2.9. Interface versions: 120105, 120100, 50504, 40402, 38002, 38000,
 30405, 30300, 20506. Not listed for Classic Era (no 11509).
 No saved variables. It has a settings panel, but nothing on it is
 configurable.
